@@ -12,7 +12,7 @@
 	<artifactId>LostAndFound</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>LostAndFound</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Lost And Found Website Backed</description>
 	<url/>
 	<licenses>
 		<license/>
